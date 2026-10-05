@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Generative UI",
+  "repo": "ianwieds/awesome-generative-ui",
+  "tagline": "Frameworks, protocols and UI kits for interfaces that an AI model renders at runtime inside your own app.",
+  "scope": "It is about UI a model chooses or renders at runtime, not a design tool that generates static mockups.",
+  "accent": "F472B6",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a pink model orb sends UI blocks (a card, a chart, a button row and a toggle field) onto an empty app panel, where they assemble, reshuffle into new layouts and fly home."
 }
