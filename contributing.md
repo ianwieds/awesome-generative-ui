@@ -4,13 +4,13 @@ Thanks for helping keep this list useful. Please read these rules before you ope
 
 ## What belongs here
 
-Replace this paragraph with the list's scope: what it covers, and which nearby projects belong only when the topic is central to what they do.
+This list covers interfaces that an AI model chooses, composes or renders at runtime inside your own app: the protocols that carry that UI, the frameworks, renderers and UI kits that draw it, and the examples and research behind it. Chat UI kits, streaming renderers and agent frameworks belong only when rendering model-driven UI is central to what they do. Design tools that generate static mockups or code for a developer to ship, and apps that run inside a chat host, belong elsewhere.
 
 An entry must be:
 
 - **Public:** a repository or page anyone can open without signing in.
 - **Documented:** a README or docs page that explains what it does and how to use it.
-- **Maintained:** for a repository, <!-- awesome:inactive -->not archived and not marked deprecated by its owner<!-- /awesome:inactive -->.
+- **Maintained:** for a repository, <!-- awesome:inactive -->not archived, not marked deprecated by its owner, and with a commit in the last 12 months<!-- /awesome:inactive -->.
 - **Established:** a GitHub project has <!-- awesome:stars -->at least 10 stars<!-- /awesome:stars --> when it is submitted.
 - **Working:** every link resolves.
 
